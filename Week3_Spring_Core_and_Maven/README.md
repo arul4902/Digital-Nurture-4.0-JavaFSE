@@ -1,4 +1,3 @@
----
 
 ## ⚠️ Important Note
 
@@ -6,4 +5,4 @@
 > However, **no changes were made to Week 3 files**.  
 > A clarification commit has been added to maintain transparency.
 
----
+
