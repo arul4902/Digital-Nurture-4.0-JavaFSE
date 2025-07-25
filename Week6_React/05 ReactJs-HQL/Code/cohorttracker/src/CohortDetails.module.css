@@ -1,0 +1,26 @@
+.box {
+  width: 280px;
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 20px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: white;
+  vertical-align: top;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+dt {
+  font-weight: 500;
+  margin-top: 5px;
+}
+
+.titleGreen {
+  color: green;
+  font-weight: bold;
+}
+
+.titleBlue {
+  color: blue;
+  font-weight: bold;
+}
