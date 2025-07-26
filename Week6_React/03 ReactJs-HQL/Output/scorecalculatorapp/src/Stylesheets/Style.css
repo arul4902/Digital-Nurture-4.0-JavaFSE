@@ -1,0 +1,31 @@
+.score-box {
+  text-align: center;
+  margin-top: 50px;
+  font-family: Arial, sans-serif;
+}
+
+.heading {
+  color: brown;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.name {
+  color: blue;
+}
+
+.school {
+  color: red;
+}
+
+.total {
+  color: purple;
+}
+
+.score {
+  color: green;
+}
